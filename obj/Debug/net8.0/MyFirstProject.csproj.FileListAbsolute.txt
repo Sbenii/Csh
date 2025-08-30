@@ -1,0 +1,14 @@
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/bin/Debug/net8.0/MyFirstProject
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/bin/Debug/net8.0/MyFirstProject.deps.json
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/bin/Debug/net8.0/MyFirstProject.runtimeconfig.json
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/bin/Debug/net8.0/MyFirstProject.dll
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/bin/Debug/net8.0/MyFirstProject.pdb
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfoInputs.cache
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfo.cs
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/MyFirstProject.dll
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/refint/MyFirstProject.dll
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/MyFirstProject.pdb
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/MyFirstProject.genruntimeconfig.cache
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/ref/MyFirstProject.dll
