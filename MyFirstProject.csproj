@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>MyFirstProject.Arrays</StartupObject>
+    <StartupObject>MyFirstProject.Calc</StartupObject>
   </PropertyGroup>
 
 </Project>

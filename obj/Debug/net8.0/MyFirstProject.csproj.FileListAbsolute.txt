@@ -12,3 +12,4 @@
 /Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/MyFirstProject.pdb
 /Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/MyFirstProject.genruntimeconfig.cache
 /Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/ref/MyFirstProject.dll
+/Users/beni/Documents/Skills/QA/Udemy/QA from scratch/C#/MyFirstProject/obj/Debug/net8.0/MyFirstProject.sourcelink.json
